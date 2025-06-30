@@ -7,16 +7,12 @@ This task includes analysing a dataset of countries and grouping them based on t
 
 
 ##Tools used:
-- Python
-- Pandas
-- Matplotlib
 - PowerBI
 
 
 ##Learning outcomes:
 - Data grouping and categorization
 - Visualization using bar charts
-- Basic data handling with Pandas
 
 
 ##Outputs:
